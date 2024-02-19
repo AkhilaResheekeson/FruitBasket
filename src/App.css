@@ -1,0 +1,25 @@
+.App {
+  width: 500px;
+  text-align: center;
+  border: 2px solid black;
+  background-color: rgb(219, 236, 156);
+}
+.apple{
+  background-color: #df5656;
+}
+.mango{
+  background-color: #c9e238;
+}
+.orange{
+  background-color: #f5a106;
+}
+h3 {
+  margin: 0;
+}
+button {
+  margin-left: auto; 
+  font-size: 15px;
+  background-color: green;
+  color: #faf7f7;
+  }
+
