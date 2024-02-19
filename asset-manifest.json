@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FruitBasket/static/css/main.25438caa.css",
+    "main.js": "/FruitBasket/static/js/main.28eaec98.js",
+    "index.html": "/FruitBasket/index.html",
+    "main.25438caa.css.map": "/FruitBasket/static/css/main.25438caa.css.map",
+    "main.28eaec98.js.map": "/FruitBasket/static/js/main.28eaec98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25438caa.css",
+    "static/js/main.28eaec98.js"
+  ]
+}
